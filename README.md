@@ -1,3 +1,6 @@
+## This repository has been archived.
+All new changes can be found back on https://github.com/jackyzha0/jackyzha0.github.io
+
 ![github pages](https://github.com/jackyzha0/jackyzha0.github.io/workflows/github%20pages/badge.svg)
 
 # ✨ Personal Site v2.0
